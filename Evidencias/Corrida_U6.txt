@@ -1,0 +1,7 @@
+N=100 semilla=2126 cubetas=201 colisiones=22 cadena_maxima=3
+N=1000 semilla=3026 cubetas=2001 colisiones=223 cadena_maxima=4
+N=10000 semilla=12026 cubetas=20001 colisiones=2126 cadena_maxima=5
+Clave=1 cubeta=1 encontrada=True comparaciones=3 iteraciones=4
+Clave=16 cubeta=1 encontrada=False comparaciones=3 iteraciones=4
+Clave=2 cubeta=2 encontrada=False comparaciones=0 iteraciones=1
+1800 búsquedas verificadas. 18 filas de resumen.
